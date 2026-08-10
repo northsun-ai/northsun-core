@@ -1,0 +1,30 @@
+{
+  "name": "@northsun-ai/core",
+  "version": "0.0.1",
+  "description": "Northsun core package placeholder.",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "northsun": "bin/northsun.js"
+  },
+  "files": [
+    "bin",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/northsun-ai/northsun-core.git"
+  },
+  "homepage": "https://northsun.ai",
+  "bugs": {
+    "url": "https://github.com/northsun-ai/northsun-core/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  }
+}
